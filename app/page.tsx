@@ -19,6 +19,7 @@ export default function HomePage() {
       <Services services={services} />
       <TechStack />
       <Projects projects={projects} />
+      <CTA />
       <Process />
     </main>
   )
